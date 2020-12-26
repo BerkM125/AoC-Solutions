@@ -41,4 +41,5 @@ void checknumbers (void) {
 
 int main (void) {
   checknumbers();
+  return 0;
 }
